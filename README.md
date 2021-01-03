@@ -6,17 +6,16 @@ For more general resources for learning DSP, see [here](https://github.com/crsar
 
 Pull requests welcome!
 
+
 ## Tutorials
+_(note that [vst-rs](https://github.com/RustAudio/vst-rs) examples can be found [here](https://github.com/RustAudio/vst-rs/tree/master/examples))_
 
-(note that [vst-rs](https://github.com/RustAudio/vst-rs) examples can be found [here](https://github.com/RustAudio/vst-rs/tree/master/examples))
-
-// untested\
 [Creating a Simple Synthesizer VST Plugin in Rust](https://vaporsoft.net/creating-an-audio-plugin-with-rust-vst/) by [doomy](https://github.com/piedoom) ([repo](https://github.com/resamplr/rust-noise-vst-tutorial))
 
-// untested\
 [Writing an Audio Plugin in Rust](https://www.seventeencups.net/posts/writing-an-audio-plugin-in-rust/) (VST) by [Joe Clay](https://github.com/17cupsofcoffee) ([repo](https://github.com/17cupsofcoffee/digidist))
 
 [Creating a Synthesizer with Tuix](https://github.com/geom3trik/tuix_audio_synth), the [cross-platform GUI toolkit](https://github.com/geom3trik/tuix), both by [George Atkinson](https://github.com/geom3trik)
+
 
 ## Plugins
 
@@ -24,6 +23,7 @@ Pull requests welcome!
 - [simple-eq](https://github.com/m-hilgendorf/simple-eq) by [Mike Hilgendorf](https://github.com/m-hilgendorf)
 - [rusty-compressor](https://github.com/m-hilgendorf/rusty-compressor) by [Mike Hilgendorf](https://github.com/m-hilgendorf)
 - [imgui_baseview_test_vst2](https://github.com/DGriffin91/imgui_baseview_test_vst2), a VST2 gain plugin using [baseview](https://github.com/RustAudio/baseview) and [imgui-rs](https://github.com/imgui-rs/imgui-rs) by [DGriffin91](https://github.com/DGriffin91)
+
 
 ## Standalone
 

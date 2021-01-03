@@ -10,11 +10,9 @@ Pull requests welcome!
 ## Tutorials
 _(note that [vst-rs](https://github.com/RustAudio/vst-rs) examples can be found [here](https://github.com/RustAudio/vst-rs/tree/master/examples))_
 
-[Creating a Simple Synthesizer VST Plugin in Rust](https://vaporsoft.net/creating-an-audio-plugin-with-rust-vst/) by [doomy](https://github.com/piedoom) ([repo](https://github.com/resamplr/rust-noise-vst-tutorial))
-
-[Writing an Audio Plugin in Rust](https://www.seventeencups.net/posts/writing-an-audio-plugin-in-rust/) (VST) by [Joe Clay](https://github.com/17cupsofcoffee) ([repo](https://github.com/17cupsofcoffee/digidist))
-
-[Creating a Synthesizer with Tuix](https://github.com/geom3trik/tuix_audio_synth), the [cross-platform GUI toolkit](https://github.com/geom3trik/tuix), both by [George Atkinson](https://github.com/geom3trik)
+- [Creating a Simple Synthesizer VST Plugin in Rust](https://vaporsoft.net/creating-an-audio-plugin-with-rust-vst/) by [doomy](https://github.com/piedoom) ([repo](https://github.com/resamplr/rust-noise-vst-tutorial))
+- [Writing an Audio Plugin in Rust](https://www.seventeencups.net/posts/writing-an-audio-plugin-in-rust/) (VST) by [Joe Clay](https://github.com/17cupsofcoffee) ([repo](https://github.com/17cupsofcoffee/digidist))
+- [Creating a Synthesizer with Tuix](https://github.com/geom3trik/tuix_audio_synth), the [cross-platform GUI toolkit](https://github.com/geom3trik/tuix), both by [George Atkinson](https://github.com/geom3trik)
 
 
 ## Plugins

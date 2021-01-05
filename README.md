@@ -20,7 +20,12 @@ _(note that [vst-rs](https://github.com/RustAudio/vst-rs) examples can be found 
 - [OctaSine](https://github.com/greatest-ape/OctaSine), a VST2 frequency modulation synthesizer by [Joakim Frostegård](https://github.com/greatest-ape)
 - [simple-eq](https://github.com/m-hilgendorf/simple-eq) by [Mike Hilgendorf](https://github.com/m-hilgendorf)
 - [rusty-compressor](https://github.com/m-hilgendorf/rusty-compressor) by [Mike Hilgendorf](https://github.com/m-hilgendorf)
-- [imgui_baseview_test_vst2](https://github.com/DGriffin91/imgui_baseview_test_vst2), a VST2 gain plugin using [baseview](https://github.com/RustAudio/baseview) and [imgui-rs](https://github.com/imgui-rs/imgui-rs) by [DGriffin91](https://github.com/DGriffin91)
+- [baseplug](https://github.com/wrl/baseplug), a high-level model/view/controller-ish audio plugin framework by [William Light](https://github.com/wrl)
+
+#### GUI Examples
+- [imgui_baseview_test_vst2](https://github.com/DGriffin91/imgui_baseview_test_vst2), an example plugin using [baseview](https://github.com/RustAudio/baseview) and [imgui-rs](https://github.com/imgui-rs/imgui-rs) by [DGriffin91](https://github.com/DGriffin91)
+- [egui_baseview_test_vst2](https://github.com/DGriffin91/egui_baseview_test_vst2), an example plugin using [baseview](https://github.com/RustAudio/baseview) and [egui](https://github.com/emilk/egui) by [DGriffin91](https://github.com/DGriffin91)
+- [iced-baseplug-examples](https://github.com/BillyDM/iced-baseplug-examples), example plugins using [baseplug](https://github.com/wrl/baseplug.git) and [iced](https://github.com/hecrj/iced.git) by [BillyDM](https://github.com/BillyDM) (note: WIP)
 
 
 ## Standalone

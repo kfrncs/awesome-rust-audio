@@ -34,7 +34,6 @@ _(note that [vst-rs](https://github.com/RustAudio/vst-rs) examples can be found 
 - [Oscen](https://github.com/reedrosenbluth/oscen), a library for building modular synthesizers by [Reed Rosenbluth](https://github.com/reedrosenbluth)
 - [synthesizer-io](https://github.com/raphlinus/synthesizer-io) by [Raph Levien](https://github.com/raphlinus)
 - [midir](https://github.com/Boddlnagg/midir), a cross-platform realtime MIDI library by [Patrick Reisert](https://github.com/Boddlnagg)
-- [Twister DX](https://github.com/wmedrano/Twister-DX), an FM Synthesizer by [Will Medrano](https://github.com/wmedrano)
 
 #### Linux Only
 - [loopers](https://github.com/mwylde/loopers), a graphic live looper by [Micah Wylde](https://github.com/mwylde)

@@ -20,6 +20,7 @@ _(note that [vst-rs](https://github.com/RustAudio/vst-rs) examples can be found 
 - [OctaSine](https://github.com/greatest-ape/OctaSine), a VST2 frequency modulation synthesizer by [Joakim Frostegård](https://github.com/greatest-ape)
 - [simple-eq](https://github.com/m-hilgendorf/simple-eq) by [Mike Hilgendorf](https://github.com/m-hilgendorf)
 - [rusty-compressor](https://github.com/m-hilgendorf/rusty-compressor) by [Mike Hilgendorf](https://github.com/m-hilgendorf)
+- [spectral-decay](https://github.com/conundrumer/spectral-decay) by [Conundrumer](https://github.com/conundrumer)
 - [baseplug](https://github.com/wrl/baseplug), a high-level model/view/controller-ish audio plugin framework by [William Light](https://github.com/wrl)
 
 #### GUI Examples

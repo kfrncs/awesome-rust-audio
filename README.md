@@ -41,3 +41,8 @@ _(note that [vst-rs](https://github.com/RustAudio/vst-rs) examples can be found 
 - [mixjack](https://github.com/derekdreery/mixjack), a mixer for JACK using [Druid](https://github.com/linebender/druid) by [Richard Dodd](https://github.com/derekdreery) 
 - [maschine.rs](https://github.com/wrl/maschine.rs), open-source handling for Maschine Mikro mk2 by [William Light](https://github.com/wrl)
 - [alsa-rs](https://github.com/diwic/alsa-rs), ALSA bindings for Rust by [diwic](https://github.com/diwic)
+
+
+## Speech & Voice
+
+- [kesha-voice-kit](https://github.com/drakulavich/kesha-voice-kit) - Open-source local-first voice toolkit with Rust engine. STT (25 languages, CoreML on Apple Silicon, ONNX fallback), TTS (Kokoro + Vosk-TTS + macOS voices, SSML), VAD, language detection (107 langs).

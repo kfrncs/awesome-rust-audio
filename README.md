@@ -45,4 +45,4 @@ _(note that [vst-rs](https://github.com/RustAudio/vst-rs) examples can be found 
 
 ## Speech & Voice
 
-- [kesha-voice-kit](https://github.com/drakulavich/kesha-voice-kit) - Open-source local-first voice toolkit with Rust engine. STT (25 languages, CoreML on Apple Silicon, ONNX fallback), TTS (Kokoro + Vosk-TTS + macOS voices, SSML), VAD, language detection (107 langs).
+- [kesha-voice-kit](https://github.com/drakulavich/kesha-voice-kit) - Open-source local-first voice toolkit with Rust engine. STT (25 languages, CoreML on Apple Silicon, ONNX fallback), TTS (9 languages via Kokoro + Vosk-TTS + macOS voices, SSML), VAD, speaker diarization, language detection (107 langs).

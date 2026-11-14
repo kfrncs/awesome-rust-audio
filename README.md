@@ -41,3 +41,4 @@ _(note that [vst-rs](https://github.com/RustAudio/vst-rs) examples can be found 
 - [mixjack](https://github.com/derekdreery/mixjack), a mixer for JACK using [Druid](https://github.com/linebender/druid) by [Richard Dodd](https://github.com/derekdreery) 
 - [maschine.rs](https://github.com/wrl/maschine.rs), open-source handling for Maschine Mikro mk2 by [William Light](https://github.com/wrl)
 - [alsa-rs](https://github.com/diwic/alsa-rs), ALSA bindings for Rust by [diwic](https://github.com/diwic)
+- [FM-1 Emulator](https://fm1-emulator.atst.tools/) - Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares
